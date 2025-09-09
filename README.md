@@ -3,7 +3,7 @@
 **Prom Parser** – это Python-скрипт для поиска товаров на сайте [Prom.ua](https://prom.ua/) с помощью **Selenium**. Он позволяет искать товары по ключевым словам и синонимам, фильтровать по цене и количеству страниц, выводить результаты в консоль и сохранять в **Excel** (`prom_products.xlsx`). Код построен с использованием **ООП**, что делает его удобным для доработки и расширения.  
 
 Чтобы запустить скрипт, просто выполните следующие команды в терминале:
-- git clone <URL_репозитория>
+- git clone <https://github.com/NIKITAaappppp/prom_parser>
 - cd prom_parser
 - pip install selenium pandas openpyxl webdriver-manager
 - python prom_parser.py
